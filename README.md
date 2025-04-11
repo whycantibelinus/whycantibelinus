@@ -20,4 +20,4 @@ Self-motivated developer transitioning into tech with a strong foundation in dat
 
 ## Contact Me:
 **Email:** [DavidWalkup@yahoo.com](mailto:DavidWalkup@yahoo.com)  
-**Resume:** [Link to your resume PDF or Drive] 
+**Resume:** (https://github.com/whycantibelinus/DavidWalkup-Resume)
