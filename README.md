@@ -1,16 +1,23 @@
-## Hi there 👋
+ Hi, I’m David Walkup
 
-<!--
-**whycantibelinus/whycantibelinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-motivated developer transitioning into tech with a strong foundation in data science and a passion for clean, responsive websites. I recently earned the IBM Data Science certificate (completed in just 1.5 weeks), and I’m actively working through freeCodeCamp’s front-end track.
 
-Here are some ideas to get you started:
+## Currently Learning:
+- HTML5 & CSS3
+- JavaScript (in progress)
+- React (in progress)
+- Python & SQL (basic)
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications:
+- IBM Data Science Certificate – March 2025
+- freeCodeCamp Responsive Web Design – *In Progress*
+
+## What I Bring:
+- Speed, deep retention, and self-direction
+- Creativity and real-world communication experience
+- Transitioning from 10+ years of logistics, driving, and client support
+
+## Contact Me:
+**Email:** [DavidWalkup@yahoo.com](mailto:DavidWalkup@yahoo.com)  
+**Resume:** [Link to your resume PDF or Drive] 
