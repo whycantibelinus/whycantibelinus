@@ -1,17 +1,15 @@
  Hi, I’m David Walkup
 
-Self-motivated developer transitioning into tech with a strong foundation in data science and a passion for clean, responsive websites. I recently earned the IBM Data Science certificate (completed in just 1.5 weeks), and I’m actively working through freeCodeCamp’s front-end track.
+Self-motivated developer transitioning into tech with a strong foundation in data science and a passion for clean, responsive websites. I recently earned the IBM What is Data Science? certificate, a Play it Safe: Manage Security Risks, and Foundations of Cyber Security certificates from Google.
 
 ## Currently Learning:
-- HTML5 & CSS3
-- JavaScript (in progress)
-- React (in progress)
-- Python & SQL (basic)
+- Python & SQL
 - Git/GitHub
 
 ## Certifications:
 - IBM Data Science Certificate – March 2025
-- freeCodeCamp Responsive Web Design – *In Progress*
+- Google Play it Safe: Manage Security Risks Certificate - March 2024
+- Google Foundations of Cyber Security Certificate - January 2024
 
 ## What I Bring:
 - Speed, deep retention, and self-direction
@@ -19,5 +17,5 @@ Self-motivated developer transitioning into tech with a strong foundation in dat
 - Transitioning from 10+ years of logistics, driving, and client support
 
 ## Contact Me:
-**Email:** [DavidWalkup@yahoo.com](mailto:DavidWalkup@yahoo.com)  
+**Email:** [willdamnolcorp@gmail.com](mailto:willdamnolcorp@gmail.com)  
 **Resume:** https://github.com/whycantibelinus/DavidWalkup-Resume
